@@ -39,10 +39,10 @@ let questions = [
     },
 ];
 let demoAnswer = {
-    title: 'ABC',
+    title: 'SSI',
     textColor: 'red',
-    shape: 'circle',
-    shapeColor: 'blue'
+    shape: 'triangle',
+    shapeColor: 'black'
 }
 //CLI will be an inquirer prompt that asks for a simple question object.
 
